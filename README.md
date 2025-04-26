@@ -19,4 +19,5 @@ Each file follows `YYYY-MM-DD.md` naming format.
 
 ## 🧠 Recent TILs
 - [2025-04-25 (WORK)](WORK/2025/04_April/2025-04-25.md)
+- [2025-04-26 (WORK)](WORK/2025/04_April/2025-04-26.md)
 
